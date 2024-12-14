@@ -4,5 +4,5 @@ Hecho en go
 
 ## Requisitos
 
-- pg
+- pq
   - Instalar usando ``go get github.com/lib/pq``
